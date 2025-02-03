@@ -13,4 +13,7 @@ Project Sponsor: Hawaiian Airlines
 
 Project Specifications: Develop a data cleaning process or stored procedure based on aircraft maintenance logs in Skywise to identify recurring defects and anomalies in aircraft performance. Leveraging historical maintenance data, defect patterns, and operational context to improve maintenance scheduling and reduce unscheduled downtime.
 
+### Project Updates
+
+1. [27 Janurary 2025 Update](/update01.html)
 {% include links.html %}
