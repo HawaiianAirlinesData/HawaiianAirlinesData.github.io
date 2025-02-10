@@ -16,4 +16,13 @@ Project Specifications: Develop a data cleaning process or stored procedure base
 ### Project Updates
 
 1. [27 Janurary 2025 Update](/update01.html)
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.date | date: "%d %B %Y" }} - {{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 {% include links.html %}
