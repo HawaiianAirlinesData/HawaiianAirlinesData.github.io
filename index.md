@@ -15,8 +15,6 @@ Project Specifications: Develop a data cleaning process or stored procedure base
 
 ### Project Updates
 
-1. [27 Janurary 2025 Update](/update01.html)
-
 <ul>
   {% for post in site.posts %}
     <li>
